@@ -10,10 +10,7 @@ data class stats(
 ```
 
 ### Get in touch with me
-<a href="https://www.instagram.com/indra.ndra26" target="_blank"><img src="https://img.shields.io/badge/-instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/indra-yana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
-<a href="mailto:indra.ndra26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" height="32px" alt="Gmail"></a>
-
+[<img src="https://img.shields.io/badge/-instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" height="32px" title="Instagram" alt="Instagram">](https://www.instagram.com/indra.ndra26)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="32px" title="LinkedIn" alt="LinkedIn">](https://www.linkedin.com/in/indra-yana)
 [<img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" height="32px" title="Gmail">](mailto:indra.ndra26@gmail.com)
 
