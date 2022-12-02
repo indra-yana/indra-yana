@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ```kotlin
-data class stats(
-  val framework: List<String> = listOf("Laravel", "CI", "Node JS"),
+data class Person(
+  val framework: List<String> = listOf("Laravel", "CI", "Node JS", "Vue JS", "React JS"),
   val language: List<String> = listOf("PHP", "Kotlin", "Java", "Javascript"),
-  val other: String = "Android Dev, Backend Dev",
+  val other: String = "Backend Developer | Android Developer",
   val city: String = "Bandung, West Java"
 )
 ```
