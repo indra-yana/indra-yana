@@ -3,8 +3,8 @@
 ```kotlin
 data class Person(
   val framework: List<String> = listOf("Laravel", "CI", "Node JS", "Vue JS", "React JS"),
-  val language: List<String> = listOf("PHP", "Kotlin", "Java", "Javascript"),
-  val other: String = "Backend Developer | Android Developer",
+  val language: List<String> = listOf("PHP", "Kotlin", "Java", "Javascript", "Typescript"),
+  val other: String = "Backend Developer | Fullstack Developer",
   val city: String = "Bandung, West Java"
 )
 ```
